@@ -6,6 +6,8 @@ movie tv TMDb.
 
 This project is a starting point for a Flutter application.
 
+responsive design ( android  and ios ) -  (.mobile  and tablet )
+
 
 
 ![Screenshot 2025-01-06 at 2 01 59 AM](https://github.com/user-attachments/assets/f0374564-e2ce-4495-b557-900d7de812c4)
